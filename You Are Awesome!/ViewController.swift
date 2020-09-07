@@ -52,7 +52,7 @@ class ViewController: UIViewController {
 //            imageView.image = UIImage(named: "image2")
 //        } else{
 //            messageLabel.text = awesomeMessage
-//            imageView.image = UIImage(named: "image0")
+//            imageView.image= UIImage(named: "image0")
 //        }
             
     }
